@@ -2,6 +2,8 @@
 
 A lightweight, browser-based Tower Defense game built with vanilla JavaScript and HTML5 Canvas.
 
+![Screenshot](docs/screenshot.png)
+
 ## 🚀 Features
 
 - **Dynamic Wave System**: Enemies spawn in increasing waves with varying difficulty.
